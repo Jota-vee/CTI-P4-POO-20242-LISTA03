@@ -23,6 +23,23 @@ Um vetor unidimensional em Java é uma estrutura de dados que armazena uma sequ�
 
 ### sub-rotina
 
+Blocos de código organizados para realizar uma tarefa específica, que podem ser reutilizados ao longo do programa.
+
+- **Estrutura**: Contêm um tipo de retorno, um nome, parâmetros opcionais e um corpo com instruções.
+
+- **Objetivo**: Melhorar a organização, reutilização e legibilidade do código.
+
+- **Parâmetros**: São usados para passar dados aos métodos durante a execução.
+
+- **Modularidade**: Facilitam a separação do código em partes menores e independentes.
+
+- **Chamada**: Podem ser invocados diretamente ou através de objetos, dependendo do contexto.
+- 
+#### Tipos
+
+- **Métodos com retorno**: Devolvem um valor ao final da execução.
+
+- **Métodos sem retorno**: Executam uma tarefa sem devolver valores.
 
 
 ## IDE utilizada
