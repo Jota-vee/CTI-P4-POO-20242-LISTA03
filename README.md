@@ -34,7 +34,7 @@ Blocos de código organizados para realizar uma tarefa específica, que podem se
 - **Modularidade**: Facilitam a separação do código em partes menores e independentes.
 
 - **Chamada**: Podem ser invocados diretamente ou através de objetos, dependendo do contexto.
-- 
+
 #### Tipos
 
 - **Métodos com retorno**: Devolvem um valor ao final da execução.
