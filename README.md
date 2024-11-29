@@ -165,7 +165,7 @@ Se você já tem o Eclipse instalado e deseja atualizá-lo:
 
 ### Baixar o Repositório Completo como ZIP
 
-- Acesse o [repositório]() no GitHub.
+- Acesse o [repositório](https://github.com/Jota-vee/CTI-P4-POO-20242-LISTA03) no GitHub.
 - Clique no botão verde Code.
 - Selecione Download ZIP.
 - Extraia o arquivo baixado para acessar o diretório desejado.
