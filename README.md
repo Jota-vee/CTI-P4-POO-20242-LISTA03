@@ -50,7 +50,7 @@ Blocos de código organizados para realizar uma tarefa específica, que podem se
 
 ### Passo 1: Baixar o Eclipse IDE 🌙
 
-- Acesse o site oficial do Eclipse [🌙](https://www.eclipse.org/downloads/).
+- Acesse o site oficial do [Eclipse](https://www.eclipse.org/downloads/).
    
 - Na página principal, você verá uma opção para baixar a versão mais recente do **Eclipse IDE for Java Developers**. Clique no botão **Download** para a versão que você deseja.
    
