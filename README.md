@@ -162,3 +162,10 @@ Se você já tem o Eclipse instalado e deseja atualizá-lo:
 - O Eclipse verificará se há atualizações disponíveis e, se houver, você poderá instalá-las.
 
 ## dowload do diretorio 
+
+### Baixar o Repositório Completo como ZIP
+
+- Acesse o [repositório]() no GitHub.
+- Clique no botão verde Code.
+- Selecione Download ZIP.
+- Extraia o arquivo baixado para acessar o diretório desejado.
