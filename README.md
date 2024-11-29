@@ -163,5 +163,6 @@ Para programar em Java no Eclipse, você precisa ter o **JDK (Java Development K
 - Selecione o diretório desejado e clique em OK.
 
 O Eclipse será reiniciado automaticamente com o novo workspace, apenas vá em cada arquivo Principal.java e click no botão verde.
-![image](https://github.com/user-attachments/assets/44362309-19b2-4a32-a349-59ea678a13e9)
+![image](https://github.com/user-attachments/assets/2392f14d-0607-45e3-b8d5-3d5edb33baf1)
+
 
