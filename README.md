@@ -10,7 +10,7 @@ O livro Fundamentos da Programação da Computadores aborda os conceitos básico
 
 ## CAP06
 
-### Estrutura de dados vetor unidimensional ou array
+### Estrutura de dados vetor unidimensional
 
 Um vetor unidimensional em Java é uma estrutura de dados que armazena uma sequência de elementos do mesmo tipo, organizados em uma única dimensão. Também é conhecido como array.
 
