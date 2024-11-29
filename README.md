@@ -108,7 +108,7 @@ Para programar em Java no Eclipse, você precisa ter o **JDK (Java Development K
 #### No Windows:
 
 - **Baixar o JDK**:
-   - Acesse o site oficial da Oracle para baixar o JDK [aqui](https://www.oracle.com/java/technologies/javase-downloads.html).
+   - Acesse o site oficial da [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html). para baixar o JDK.
    - Escolha a versão do JDK que você deseja (recomendo a versão mais recente ou o JDK 11).
 
 - **Instalar o JDK**:
