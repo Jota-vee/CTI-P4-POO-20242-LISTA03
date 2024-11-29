@@ -161,7 +161,7 @@ Se você já tem o Eclipse instalado e deseja atualizá-lo:
 - Vá em **Help > Check for Updates**.
 - O Eclipse verificará se há atualizações disponíveis e, se houver, você poderá instalá-las.
 
-## dowload do diretorio 
+## Dowload do diretorio 
 
 ### Baixar o Repositório Completo como ZIP
 
@@ -169,3 +169,14 @@ Se você já tem o Eclipse instalado e deseja atualizá-lo:
 - Clique no botão verde Code.
 - Selecione Download ZIP.
 - Extraia o arquivo baixado para acessar o diretório desejado.
+
+## Execução dos codigos
+
+### Alterar o diretorio 
+
+- Abra o eclipse
+- No menu superior, clique em File > Switch Workspace > Other....
+- Na janela que abrir, clique em "Browse..." para selecionar um novo diretório para o workspace.
+- Selecione o diretório desejado e clique em OK.
+
+O Eclipse será reiniciado automaticamente com o novo workspace.
